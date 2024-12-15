@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kerstwensen</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="kerst.png" type="image/png" /> 
+  </head>
+  <body>
+    <!-- super belangrijk om sneeuw te hebben natuurlijk -->
+    <div class="snow-container"></div>
+    <h1>Kerstwensen</h1>
+    <div class="form-container">
+      <form id="wishForm">
+        <input type="text" id="name" placeholder="Je naam" required />
+        <textarea id="message" placeholder="Je kerstwens" required></textarea>
+        <div class="submit-button">
+          <button type="submit">Verzend Wens</button>
+        </div>
+      </form>
+    </div>
+
+    <h1>Wensen:</h1>
+    <div class="wishes-container">
+      <ul id="wishList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

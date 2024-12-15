@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "PjDT/+3hJ4C7lD9NlElU3trt2romyS6qwKTIs6UWdzg=",
+  "Source": "MerryChristmas",
+  "BasePath": "_content/MerryChristmas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MerryChristmas\\wwwroot",
+      "Source": "MerryChristmas",
+      "ContentRoot": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\",
+      "BasePath": "_content/MerryChristmas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\index.html",
+      "SourceId": "MerryChristmas",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\",
+      "BasePath": "_content/MerryChristmas",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\kerst.png",
+      "SourceId": "MerryChristmas",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\",
+      "BasePath": "_content/MerryChristmas",
+      "RelativePath": "kerst.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\kerst.png"
+    },
+    {
+      "Identity": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\script.js",
+      "SourceId": "MerryChristmas",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\",
+      "BasePath": "_content/MerryChristmas",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\styles.css",
+      "SourceId": "MerryChristmas",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Kerst Wensen\\MerryChristmas\\wwwroot\\",
+      "BasePath": "_content/MerryChristmas",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
